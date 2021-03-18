@@ -1,5 +1,6 @@
 .DS_Store
 .idea
+.direnv
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
